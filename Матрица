@@ -14,7 +14,10 @@ result2 = get_matrix(3, 5, 42)
 result3 = get_matrix(4, 2, 13)
 for i in result1:
     print(*i)
+print()
 for j in result2:
     print(*j)
+print()
 for k in result3:
     print(*k)
+print()
